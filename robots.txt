@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jrs-tracking.github.io/guide/sitemap.xml
